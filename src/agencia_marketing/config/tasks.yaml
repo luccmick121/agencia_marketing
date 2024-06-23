@@ -1,0 +1,29 @@
+pesquisador_task:
+  description: >
+    Faça uma pesquisa completa sobre os 5 maiores concorentes e estrategias de {topic} Certifique-se de encontrar todas as informações interessantes e relevantes fornecidas
+    no ano atual é 2024.
+  expected_output: >
+    Uma lista com 10 marcadores das informações mais relevantes sobre {topic} e o publico dos concorentes e as estrategias.
+
+###########################################################
+estrategista_task:
+  description: >
+    Revise o contexto obtido e expanda cada tópico em uma seção completa para um relatório.
+    Certifique-se de que o relatório seja detalhado e contenha toda e qualquer informação relevante de estrategias criadas, o publico alvo que vai ser usado para nossos anuncios e estrategias.
+  expected_output: >
+    Relatórios completos com os principais tópicos, cada um com uma seção completa de informações estrategicas para vender infoprodutos com essas estrategias formulada  nesse relatorio que voce fez.
+ 
+
+###########################################################
+copywriter_task:
+  description: >
+    Pegue o conteudo do estrategista e crie no minimo 2 script de vendas para whatsapp, 10 copys para anuncio de capytaçao de menssagens para o whatsapp sobre { topic} que esta nas informaçoes e estrategias que o estrategista vai te passar e voce vai mandas a 10 copys de anuncio para o gestor.
+  expected_output: >
+    Revise as imformaçoes  obtida e faça a criaçao de cada copy pedida ultilise todas as tecnicas de copywriter e persuasao e no final faça o relatorio completo,
+
+###########################################################
+gertor_task:
+  description: >
+    pegue todas a informaçoes e analise e faça as melhores campanhas de vendas para captaçao de menssagem com o objtivo de venda, e tranforme as campanhas em alta performace e barata.
+  expected_output: >
+    revise tudo que foi criado e elabore um super relatorio com cada topico mostrando sudo desdas copys, estrategias de anuncios, tipos de criativos, publico alvo.
